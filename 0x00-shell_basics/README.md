@@ -1,1 +1,1 @@
-path name of the current working directory
+Displaying contents of the current working directory
