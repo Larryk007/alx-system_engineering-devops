@@ -1,1 +1,1 @@
-Displaying contents of the current working directory
+listing files in the wd
